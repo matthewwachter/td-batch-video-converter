@@ -14,6 +14,7 @@ This tool can be used to batch convert video files in a folder. It can also reta
  	- Hap Q
  	- H.265/HEVC (NVIDIA GPU)
  	- GIF
+	- NotchLC
 
 
 
